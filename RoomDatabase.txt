@@ -1,0 +1,7 @@
+-858993460 Unknown Roomtype Unknown Bookingstatus
+101 Single Booked
+102 Deluxe Available
+103 Suite Available
+104 Deluxe Booked
+105 Single Available
+106 Suite Booked
